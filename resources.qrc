@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AppWindow.qml</file>
+        <file>Background1.qml</file>
+        <file>KeyboardChoice.qml</file>
+        <file>Landing.qml</file>
+        <file>Login.qml</file>
+        <file>Main.qml</file>
+        <file>ModeChoice.qml</file>
+        <file>PomodoroTimer.qml</file>
+        <file>SignIn.qml</file>
+        <file>SpotifyMini.qml</file>
+        <file>ToolsPanel.qml</file>
+    </qresource>
+</RCC>
